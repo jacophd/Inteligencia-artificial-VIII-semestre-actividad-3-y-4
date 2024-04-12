@@ -1,0 +1,13 @@
+Estadísticas descriptivas para la frecuencia cardíaca:
+Media: 78.9875
+Mediana: 80.0
+Desviación estándar: 11.292136367844659
+Mínimo: 60
+Máximo: 99
+
+Estadísticas descriptivas para la frecuencia respiratoria:
+Media: 15.675
+Mediana: 16.0
+Desviación estándar: 2.370522094391866
+Mínimo: 12
+Máximo: 19
